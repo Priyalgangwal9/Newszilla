@@ -1,2 +1,2 @@
 This is a simple news website built with HTML, CSS, and JavaScript, utilizing the News API to fetch and display news articles. The project aims to provide a straightforward and responsive platform for users to stay updated on the latest news. Users can explore news articles based on different categories such as business, entertainment, health, science, sports, and technology.
-They can also search for specific news articles using keywords. [Demo link]{https://drive.google.com/file/d/16ciMWPvxqpa549RVPddaDGn1W3paHex4/view?usp=drivesdk}
+They can also search for specific news articles using keywords. [Demo link](https://drive.google.com/file/d/16ciMWPvxqpa549RVPddaDGn1W3paHex4/view?usp=drivesdk)
